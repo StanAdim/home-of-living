@@ -1,0 +1,72 @@
+/* navigation bar */
+
+.title {
+    font-size: 88px;
+    margin-bottom: 30px;
+}
+
+.navbar-brand,
+.navbar {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Gill sans';
+}
+
+.navbar-brand img {
+    padding: 0;
+    margin: 0;
+    width: 80px;
+    height: 60px;
+    cursor: pointer;
+    outline: none;
+}
+
+.hli_bg {
+    background-color: #eedde046!important;
+}
+
+.nav-link:hover,
+.navbar-brand:hover,
+.dropdown-item:hover {
+    color: rgba(99, 6, 73, 0.78)!important;
+    font-family: 'Gill sans';
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.nav-link,
+.navbar-brand {
+    color: rebeccapurple !important;
+}
+
+
+/* Home body and Enssential sections */
+
+
+/*
+.jumbotron{
+background:url('../images/logo.png');
+background-size: cover;
+} */
+
+
+/* Other sections */
+
+.commentCollapse {
+    background-color: #b6eebb !important;
+}
+
+#share-btn {
+    margin-top: 20px!important;
+}
+
+#app {
+    margin-top: 40px;
+}
+
+#post-title,
+.card-header {
+    display: flex;
+    justify-content: center;
+}
